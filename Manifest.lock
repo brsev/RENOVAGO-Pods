@@ -302,6 +302,7 @@ PODS:
     - gRPC-Core/Interface (= 1.28.2)
   - gRPC-Core/Interface (1.28.2)
   - GTMSessionFetcher/Core (1.5.0)
+  - Introspect (0.1.1)
   - leveldb-library (1.22)
   - nanopb (1.30906.0):
     - nanopb/decode (= 1.30906.0)
@@ -315,6 +316,7 @@ DEPENDENCIES:
   - Firebase/Firestore
   - Firebase/Storage
   - FirebaseFirestoreSwift
+  - Introspect
 
 SPEC REPOS:
   trunk:
@@ -332,6 +334,7 @@ SPEC REPOS:
     - "gRPC-C++"
     - gRPC-Core
     - GTMSessionFetcher
+    - Introspect
     - leveldb-library
     - nanopb
     - PromisesObjC
@@ -351,10 +354,11 @@ SPEC CHECKSUMS:
   "gRPC-C++": 13d8ccef97d5c3c441b7e3c529ef28ebee86fad2
   gRPC-Core: 4afa11bfbedf7cdecd04de535a9e046893404ed5
   GTMSessionFetcher: b3503b20a988c4e20cc189aa798fd18220133f52
+  Introspect: 50c17d6b1f091f4cfd678ea8a4157ac071808fe3
   leveldb-library: 55d93ee664b4007aac644a782d11da33fba316f7
   nanopb: 59317e09cf1f1a0af72f12af412d54edf52603fc
   PromisesObjC: 8c196f5a328c2cba3e74624585467a557dcb482f
 
-PODFILE CHECKSUM: 9ff698069e1299cb6ffef3c359354cd34777ae1e
+PODFILE CHECKSUM: 27977a2ac2dda2cd94be75f90d06a495b611a03c
 
 COCOAPODS: 1.10.0
